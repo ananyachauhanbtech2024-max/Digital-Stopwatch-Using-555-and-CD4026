@@ -1,6 +1,4 @@
 # Digital-Stopwatch-Using-555-and-CD4026
-# Digital Stopwatch Using 555 Timer and CD4026
-
 ## Overview
 This project is a digital stopwatch built using a 555 timer IC and two CD4026 decade counter ICs.
 
